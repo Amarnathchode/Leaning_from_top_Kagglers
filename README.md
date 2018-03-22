@@ -40,3 +40,10 @@ The class instructors managed to provide a unique set of resources for different
 
 [Validation for Competitions](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/)
 
+
+### Data Leakage
+
+[Leakage](https://www.kaggle.com/wiki/Leakage)
+
+[Perfect Score Script](https://www.kaggle.com/olegtrott/the-perfect-score-script)
+
